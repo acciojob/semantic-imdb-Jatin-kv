@@ -1,2 +1,24 @@
+header {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    background-color:rgb(221, 207, 207);
+    height: 50px;
+  }
+  summary{
+    font-size: 20px;
+    text-align: left;
+    font-weight: 900;
+  }
+  footer{
+    border: 2px solid red;
+    text-align: center;
+    background-color: rgb(107, 191, 107);
+  }
 
-/* Your CSS Code here. */
+  main{
+    background-color: rgb(210, 210, 72);
+  }
+  nav{
+    background-color: rgb(242, 216, 216);
+  }
