@@ -1,3 +1,7 @@
+*{
+  /* padding:0; */
+  margin:0;
+}
 header {
     font-size: 30px;
     text-align: center;
@@ -10,15 +14,15 @@ header {
     text-align: left;
     font-weight: 900;
   }
-  footer{
-    border: 2px solid red;
-    text-align: center;
-    background-color: rgb(107, 191, 107);
-  }
-
   main{
     background-color: rgb(210, 210, 72);
   }
   nav{
     background-color: rgb(242, 216, 216);
+  }
+  #footer{
+    border: 2px solid rgb(95, 16, 16);
+    text-align: center;
+    background-color: rgb(107, 191, 107);
+    padding: 3px;
   }
